@@ -2,5 +2,5 @@
 
 void main()
 {
-	
+	pringtf("hello world\n");
 }
